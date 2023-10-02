@@ -1,0 +1,78 @@
+Employee_Name: CEMMa, Jessica 
+(Position ID: WFS000503) 
+has less than 10 hours between shifts on 2023-09-14 00:00:00
+Employee_Name: CEMMa, Jessica 
+(Position ID: WFS000503) 
+has less than 10 hours between shifts on 2023-09-21 00:00:00
+Employee_Name: CEreira Jr, JEse 
+(Position ID: WFS000456) 
+has less than 10 hours between shifts on 2023-09-14 00:00:00
+Employee_Name: CaMaXaWE, CeghaW 
+(Position ID: WFS000153) 
+has less than 10 hours between shifts on 2023-09-11 00:00:00
+Employee_Name: CaMaXaWE, CeghaW 
+(Position ID: WFS000153) 
+has less than 10 hours between shifts on 2023-09-20 00:00:00
+Employee_Name: CeWdEza, Erik 
+(Position ID: WFS000465) 
+has less than 10 hours between shifts on 2023-09-11 00:00:00
+Employee_Name: De Xa Cerda, IgWaciE 
+(Position ID: WFS000318) 
+has less than 10 hours between shifts on 2023-09-22 00:00:00
+Employee_Name: DeXgadiXXE REdarMe, ChrisMiaW S 
+(Position ID: WFS000523) 
+worked more than 14 hours on 2023-09-17 00:00:00
+Employee_Name: DeXgadiXXE REdarMe, ChrisMiaW S 
+(Position ID: WFS000523) 
+has less than 10 hours between shifts on 2023-09-17 00:00:00
+Employee_Name: ErMiz, AGigaiX 
+(Position ID: WFS000372) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: FaGiaW CiraWda, JEse 
+(Position ID: WFS000530) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: GaWks, GryaW 
+(Position ID: WFS000226) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: HAWMer, ViWceWM De PaAX 
+(Position ID: WFS000538) 
+has less than 10 hours between shifts on 2023-09-16 00:00:00
+Employee_Name: HEGGie ErMega, SeGasMiaW CichaeX 
+(Position ID: WFS000549) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: HaCiXMEW, DeaWMe DevEW 
+(Position ID: WFS000536) 
+has less than 10 hours between shifts on 2023-09-21 00:00:00
+Employee_Name: JerEWiCE CEraXes, CarXEs D 
+(Position ID: WFS000557) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: MAcker, CichaeX 
+(Position ID: WFS000360) 
+has less than 10 hours between shifts on 2023-09-12 00:00:00
+Employee_Name: Perez, EdwiW JiCeWez 
+(Position ID: WFS000517) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs 
+(Position ID: WFS000556) 
+has less than 10 hours between shifts on 2023-09-11 00:00:00
+Employee_Name: REdrigAez, GraWdEW AWgeX 
+(Position ID: WFS000550) 
+has less than 10 hours between shifts on 2023-09-23 00:00:00
+Employee_Name: REdrigAez, XAis 
+(Position ID: WFS000412) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: SiWgXeMEW, REger 
+(Position ID: WFS000426) 
+has less than 10 hours between shifts on 2023-09-10 00:00:00
+Employee_Name: SiWgh, MarAWpreeM 
+(Position ID: WFS000246) 
+has less than 10 hours between shifts on 2023-09-11 00:00:00
+Employee_Name: XariEs XaWdaverde, XAis ErWesME 
+(Position ID: WFS000572) 
+has less than 10 hours between shifts on 2023-09-11 00:00:00
+Employee_Name: Xee, XaCar 
+(Position ID: WFS000200) 
+has less than 10 hours between shifts on 2023-09-18 00:00:00
+Employee_Name: Xee, XaCar 
+(Position ID: WFS000200) 
+has less than 10 hours between shifts on 2023-09-19 00:00:00
