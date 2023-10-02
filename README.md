@@ -2,10 +2,11 @@
 Bluejay internship assignment for the internship of data analysis 
 
 # Employee Data Processing Script
-#Overview
+
+**Overview**
 This Python script is designed to process employee data stored in a CSV file named 'Employee.csv'. The script performs various data cleaning and validation tasks on the employee data, such as checking for invalid date and time formats, identifying employees who worked more than 14 hours in a single shift, and tracking consecutive working days with less than 10 hours between shifts. The cleaned data is then saved to a new CSV file named 'OutputEmployeeData.csv'.
 
-#Prerequisites
+**Prerequisites**
 Before running the script, you'll need the following:
 
 Python 3.x installed on your system.
@@ -14,7 +15,9 @@ The pandas library for data manipulation. You can install it using pip:
 
 shell
 Copy code
+```
 pip install pandas
+```
 The datetime library for date and time handling. It is part of Python's standard library and does not require a separate installation.
 
 How to Use
@@ -28,7 +31,9 @@ Execute the script by running the Python file in your terminal or preferred Pyth
 
 shell
 Copy code
+```
 python script.py
+```
 The script will read 'Employee.csv,' process the data, and print any validation messages or issues it encounters during processing.
 
 #View Cleaned Data
@@ -46,7 +51,12 @@ Issues and Contributions
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or create a pull request in this GitHub repository.
 
 You can customize this README to include additional information or specific usage instructions if needed. This provides users with a clear understanding of what the script does and how to use it effectively.
-
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 
 
